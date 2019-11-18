@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<who><what><where><when> mon </when><how> tue  wed  thu </how></where><who><what><where><when><how> fri  sat </how><who> sun </who></when></where></what></who><what> mon </what></what><where><when><how> tue  wed  thu </how></when><who> fri  sat </who></where></who><!-- 13, 7 -->
+<what><where><when> sun  mon </when><how><who> tue  wed </who></how><what> thu  fri </what></where><where><when> sat  sun  mon </when><how><who><what><where><when> tue </when><how> wed </how></where><who> thu  fri </who></what><what> sat </what><where> sun  mon  tue </where></who></how><when> wed </when></where><how> thu </how></what><!-- 19, 7 -->
+<who><what> fri  sat </what><where><when><how> sun  mon  tue </how><who><what> wed </what></who><where><when> thu </when><how> fri </how><who><what><where> sat </where><when> sun  mon </when><how> tue  wed  thu </how></what></who></where></when></where></who><!-- 14, 7 -->
+<who><what><where><when><how><who> fri  sat  sun </who></how><what> mon  tue  wed </what></when><where> thu </where><when><how><who><what> fri </what></who><where> sat  sun </where><when> mon  tue  wed </when></how><how> thu  fri </how></when></where><who> sat  sun </who><what> mon  tue </what></what></who><!-- 19, 7 -->
+<where><when><how> wed </how></when><who> thu  fri  sat </who></where><!-- 4, 3 -->
+<what><where><when><how><who> sun  mon  tue </who><what><where><when> wed  thu </when></where></what><how> fri  sat </how></how><who><what><where> sun </where><when><how> mon  tue </how></when><who> wed  thu  fri </who></what></who><what> sat  sun </what></when><where> mon  tue </where></where><when> wed  thu  fri </when><how> sat  sun </how></what><!-- 22, 7 -->
+<who><what> mon  tue  wed </what><where><when> thu  fri </when><how> sat  sun </how><who><what> mon  tue </what><where><when><how> wed </how><who> thu </who></when></where><what> fri  sat  sun </what></who></where></who><!-- 14, 6 -->
+<where><when><how><who> mon </who><what> tue  wed  thu </what><where> fri  sat  sun </where></how><when> mon </when></when></where><!-- 8, 4 -->
+<how><who><what><where><when> tue  wed </when></where><how> thu </how><who> fri  sat </who></what><what><where> sun  mon  tue </where><when><how><who><what> wed </what><where> thu </where><when> fri  sat  sun </when></who><how> mon </how></how><who> tue </who></when><what> wed </what></what></who><where> thu </where></how><!-- 17, 7 -->
+<when> fri </when><!-- 1, 1 -->
+<how> sat </how><!-- 1, 1 -->
+<who> sun  mon  tue </who><!-- 3, 1 -->
+<what><where><when><how><who> wed </who></how><what><where><when> thu </when><how><who> fri  sat </who><what> sun  mon </what><where> tue  wed  thu </where></how><when><how> fri  sat  sun </how><who> mon </who></when></where><what> tue </what><where> wed  thu  fri </where></what></when><when> sat  sun  mon </when></where><how> tue </how><who> wed  thu  fri </who></what><!-- 24, 7 -->
+<what><where><when><how><who><what><where> sat  sun  mon </where><when> tue  wed  thu </when><how> fri  sat  sun </how></what></who><who><what><where> mon  tue </where><when> wed  thu </when><how> fri </how></what></who></how><who> sat </who><what> sun </what></when></where><where> mon </where></what><!-- 17, 7 -->
+<when><how><who> tue  wed  thu </who><what> fri </what></how><where> sat  sun </where></when><!-- 6, 3 -->
+<when> mon </when><!-- 1, 1 -->
+<how><who><what><where><when><how><who> tue  wed  thu </who></how></when></where><what><where> fri  sat </where><when> sun </when></what><how> mon </how></what><who><what><where> tue  wed  thu </where></what></who><when> fri </when></who><how> sat  sun  mon </how></how><!-- 14, 7 -->
+<who> tue </who><!-- 1, 1 -->
+<what> wed </what><!-- 1, 1 -->
+<where><when><how> thu  fri  sat </how><who> sun </who></when></where><!-- 4, 3 -->
+<what><where><when><how><who><what> mon  tue  wed </what><where><when> thu  fri </when></where></who><how><who><what> sat </what><where> sun </where><when> mon </when></who></how><how><who><what> tue </what></who><where><when> wed  thu  fri </when></where><how> sat  sun  mon </how></how></how><who> tue </who><what> wed  thu  fri </what></when><where> sat  sun </where></where><when> mon  tue  wed </when><how> thu  fri  sat </how></what><!-- 27, 7 -->
+<who> sun  mon  tue </who><!-- 3, 1 -->
+<what><where><when><how><who><what> wed  thu  fri </what></who><where> sat </where></how></when><when><how><who> sun  mon  tue </who><what> wed  thu  fri </what><where> sat  sun  mon </where></how><when> tue  wed  thu </when><how> fri  sat  sun </how></when></where><who> mon  tue  wed </who></what><!-- 22, 6 -->
+<what><where><when> thu  fri  sat </when></where><how> sun  mon  tue </how><who> wed  thu  fri </who></what><!-- 9, 3 -->
+<what><where> sat  sun </where><when><how> mon  tue </how><who> wed </who></when></what><!-- 5, 3 -->
+</root>
