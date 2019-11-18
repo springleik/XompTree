@@ -1,2 +1,2 @@
 # XompTree
-C++ language code generator, to create XML test cases.
+C++ language code generator, for creating XML test cases.
